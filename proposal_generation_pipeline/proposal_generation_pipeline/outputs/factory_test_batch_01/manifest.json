@@ -1,0 +1,26 @@
+{
+  "1_clip_000_frame_0221.jpg": {
+    "source_video": "1_clip_000.mp4",
+    "source_frame": 221
+  },
+  "1_clip_001_frame_0155.jpg": {
+    "source_video": "1_clip_001.mp4",
+    "source_frame": 155
+  },
+  "1_clip_002_frame_0212.jpg": {
+    "source_video": "1_clip_002.mp4",
+    "source_frame": 212
+  },
+  "1_clip_003_frame_0227.jpg": {
+    "source_video": "1_clip_003.mp4",
+    "source_frame": 227
+  },
+  "1_clip_004_frame_0209.jpg": {
+    "source_video": "1_clip_004.mp4",
+    "source_frame": 209
+  },
+  "1_clip_005_frame_0197.jpg": {
+    "source_video": "1_clip_005.mp4",
+    "source_frame": 197
+  }
+}
