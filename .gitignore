@@ -1,0 +1,4 @@
+proposal_generation_pipeline/proposal_generation_pipeline/rf-detr-medium.pth
+.venv/
+proposal_generation_pipeline/proposal_generation_pipeline/uploads/
+.env

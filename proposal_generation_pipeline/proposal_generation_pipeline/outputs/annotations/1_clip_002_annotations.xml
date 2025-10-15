@@ -1,0 +1,413 @@
+<?xml version="1.0" ?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>0</id>
+      <name>1_clip_002</name>
+      <size>15</size>
+      <mode>interpolation</mode>
+      <overlap>0</overlap>
+      <original_size>
+        <width>1280</width>
+        <height>720</height>
+      </original_size>
+      <labels>
+        <label>
+          <name>person</name>
+          <color>#ff0000</color>
+          <attributes>
+            <attribute>
+              <name>walking_behavior</name>
+              <mutable>true</mutable>
+              <input_type>select</input_type>
+              <default_value>unknown</default_value>
+              <values>unknown
+normal_walk</values>
+            </attribute>
+            <attribute>
+              <name>phone_usage</name>
+              <mutable>true</mutable>
+              <input_type>select</input_type>
+              <default_value>unknown</default_value>
+              <values>unknown
+no_phone</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+  </meta>
+  <track id="23" label="person">
+    <box frame="0" xtl="553.9058227539062" ytl="433.8294677734375" xbr="675.343505859375" ybr="718.3984375" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="1" xtl="554.29594296378" ytl="434.84764177031934" xbr="675.8861509531907" ybr="718.1583520549975" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="2" xtl="554.1475631057604" ytl="434.4180375303665" xbr="675.6260337196883" ybr="718.3222683801341" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="3" xtl="554.6797611443245" ytl="436.07354808146135" xbr="675.8947126005734" ybr="718.524218163893" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="4" xtl="555.5626877464609" ytl="436.3466165936061" xbr="677.3566066077595" ybr="718.3073524638087" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="5" xtl="555.9946846506933" ytl="435.35909296456043" xbr="679.6186749394923" ybr="718.2798660836888" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="6" xtl="555.9508706984908" ytl="435.47283197346246" xbr="680.1373773906686" ybr="718.410493340371" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="7" xtl="556.4671789758545" ytl="436.03475866296003" xbr="680.4861586400261" ybr="718.3676088101961" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="8" xtl="568.1068058746201" ytl="439.05076784174935" xbr="681.9375379626958" ybr="718.51705665553" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="9" xtl="586.6764242009803" ytl="440.1943801071129" xbr="690.1100520381805" ybr="718.6322345770843" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="10" xtl="571.5557814948392" ytl="437.33769468045296" xbr="687.8997857161086" ybr="718.3061717986161" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="11" xtl="509.1345917490893" ytl="430.78096220385476" xbr="640.6648393266181" ybr="717.5034835104536" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="12" xtl="507.1874220696587" ytl="400.8729743859658" xbr="639.4933941487043" ybr="718.0605505093322" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="13" xtl="491.988623565408" ytl="367.7820564611699" xbr="613.1473256810949" ybr="701.4894684392052" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="14" xtl="479.23801338484554" ytl="335.93968069906384" xbr="593.3507619096299" ybr="663.1913987787752" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+  </track>
+  <track id="24" label="person">
+    <box frame="0" xtl="898.2882690429688" ytl="146.80453491210938" xbr="974.2901611328125" ybr="413.8177185058594" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="1" xtl="897.8354316416235" ytl="146.3738958847504" xbr="974.6420814638436" ybr="413.67713011200703" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="2" xtl="897.9423891943718" ytl="145.91118926899128" xbr="974.0504832700561" ybr="413.6151644951515" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="3" xtl="899.1939143959158" ytl="145.875417870712" xbr="974.3293051183721" ybr="413.5780083226357" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="4" xtl="898.7478944412428" ytl="145.73764657031788" xbr="973.6008636585234" ybr="413.6782600443745" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="5" xtl="898.5663376590335" ytl="145.89296990124123" xbr="973.3380482695901" ybr="413.8100964817593" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="6" xtl="899.000488693553" ytl="146.28713042711337" xbr="973.1756146701134" ybr="413.5941812975307" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="7" xtl="898.4679835772167" ytl="145.81452677009693" xbr="972.8112323049797" ybr="413.41718148013615" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="8" xtl="897.2701188768018" ytl="146.55797968872727" xbr="973.0630967812723" ybr="413.50616855042585" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="9" xtl="902.2974576387209" ytl="146.4297347989905" xbr="977.897919384764" ybr="413.7619063929177" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="10" xtl="897.020606184094" ytl="145.94623738079017" xbr="973.3749546939162" ybr="413.3985633425683" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="11" xtl="907.6127880985158" ytl="146.1910352842225" xbr="985.1614253047426" ybr="414.1274590351112" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="12" xtl="902.3104334030966" ytl="146.45196521872836" xbr="982.4477738117641" ybr="414.32104397402054" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="13" xtl="903.4804657983478" ytl="146.91632501763536" xbr="981.2318096478587" ybr="413.8318656280592" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="14" xtl="903.7290343135926" ytl="148.3232451298645" xbr="981.5479361981794" ybr="414.1975157149235" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+  </track>
+  <track id="25" label="person">
+    <box frame="0" xtl="1163.8316650390625" ytl="0.5694437026977539" xbr="1241.39794921875" ybr="212.9143991470337" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="1" xtl="1166.5155551488513" ytl="0.3245741176919381" xbr="1242.3744200306003" ybr="213.29128398254562" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="2" xtl="1165.2458981258815" ytl="0.08938858437939246" xbr="1240.4907225610016" ybr="213.06578892296847" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="3" xtl="1165.3642377827841" ytl="0.1398501845130795" xbr="1239.540315390872" ybr="213.35373393051356" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="4" xtl="1165.3638047505115" ytl="0.17180752883558625" xbr="1239.4449216730525" ybr="213.37021278906423" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="5" xtl="1164.7697995703768" ytl="0.21426261881656217" xbr="1240.5696700102712" ybr="212.8482074457039" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="6" xtl="1164.2597179806141" ytl="0.14569543629157522" xbr="1240.2467576310014" ybr="212.97821725390207" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="7" xtl="1163.5351455825598" ytl="0.15947018691771575" xbr="1239.462224302291" ybr="212.8907098058054" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="8" xtl="1163.8784019446582" ytl="0.01857224601151586" xbr="1239.3776124104268" ybr="213.10894140714112" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="9" xtl="1164.3019070759942" ytl="0.029897178765722288" xbr="1239.7891569569138" ybr="213.38776141219233" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="10" xtl="1163.6085795754195" ytl="0.13848970022519325" xbr="1239.64927522354" ybr="213.2269839083729" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="11" xtl="1163.4285156824901" ytl="0.1057400181748136" xbr="1240.0612192104882" ybr="212.8424703719706" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="12" xtl="1163.3892757101196" ytl="0.1444004802844745" xbr="1239.052809448549" ybr="212.7944052792765" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="13" xtl="1163.3275185272669" ytl="0.10961205969967125" xbr="1238.6256880778492" ybr="212.81442787456132" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="14" xtl="1164.0030298241866" ytl="0.16546699227086492" xbr="1238.9419156009374" ybr="212.69574814561113" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+  </track>
+  <track id="26" label="person">
+    <box frame="0" xtl="348.82781982421875" ytl="193.41246032714844" xbr="500.04364013671875" ybr="440.8335266113281" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="1" xtl="387.1838558790426" ytl="196.24185042944262" xbr="494.9208608153786" ybr="434.7302169379698" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="2" xtl="380.46459000179834" ytl="187.07085282534354" xbr="499.63282731009195" ybr="426.05802136409295" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="3" xtl="408.9313288792195" ytl="201.96108629886328" xbr="489.8043226774683" ybr="455.97449440169237" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="4" xtl="360.29533770108793" ytl="228.26591378707406" xbr="460.70579738957025" ybr="507.7335012758997" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="5" xtl="326.7985031327546" ytl="272.2502351594634" xbr="454.7176474325041" ybr="532.1350325537587" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="6" xtl="318.34001601695365" ytl="279.8438617665513" xbr="461.3479268588774" ybr="531.9116854794287" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="7" xtl="315.590879929037" ytl="274.2172546978709" xbr="477.2792489637496" ybr="531.9474137277075" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="8" xtl="327.60651344984524" ytl="244.22309042518665" xbr="470.8727968953466" ybr="518.5982334999636" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="9" xtl="345.0038632176775" ytl="247.32559643076985" xbr="469.3429886403742" ybr="516.6532279427604" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="10" xtl="352.223968483671" ytl="244.10610694600592" xbr="478.30070127594956" ybr="516.5071072939686" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="11" xtl="361.5877432720714" ytl="258.8189008803637" xbr="486.6818621026214" ybr="519.3108624835891" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="12" xtl="353.04164727074476" ytl="290.2419191725717" xbr="468.4113202115226" ybr="525.1000406450303" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="13" xtl="350.7413528414428" ytl="295.95453325676664" xbr="478.81235783368425" ybr="525.3067408733287" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="14" xtl="340.741455077692" ytl="270.11656351014364" xbr="485.292120970504" ybr="526.8440770472685" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+  </track>
+  <track id="27" label="person">
+    <box frame="0" xtl="471.23480224609375" ytl="201.91419982910156" xbr="557.172607421875" ybr="498.67469787597656" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="1" xtl="471.507151088047" ytl="199.04966148687535" xbr="556.9907946921342" ybr="499.5516466851557" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="2" xtl="454.9702172962416" ytl="199.99999241857128" xbr="551.2744473977293" ybr="491.3701793455688" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="3" xtl="459.78602918316255" ytl="204.79612899836437" xbr="556.0299398014482" ybr="491.11940612126614" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="4" xtl="466.25550783597083" ytl="197.3207052813504" xbr="553.6115014373567" ybr="488.0863890173253" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="5" xtl="398.0993638917964" ytl="187.43475329754273" xbr="493.958572633124" ybr="476.66414400295974" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="6" xtl="357.33955500334014" ytl="178.40524081117377" xbr="491.82238556452154" ybr="464.701183267407" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="7" xtl="366.18476174762895" ytl="168.99655646415647" xbr="477.8882542605772" ybr="393.47214082522316" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="8" xtl="380.32728022677685" ytl="189.32887930140566" xbr="468.0671725535728" ybr="347.66158807830436" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="9" xtl="388.88484574041456" ytl="182.843311789334" xbr="468.96982102117374" ybr="331.2137212189766" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="10" xtl="372.3775788315064" ytl="170.01056880963768" xbr="476.369958624756" ybr="320.29281410676083" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="11" xtl="388.78906626027555" ytl="169.72192843569093" xbr="477.6787004569205" ybr="314.46152363934016" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="12" xtl="362.292006696251" ytl="168.0704024768343" xbr="479.7429813485508" ybr="344.7517571243899" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="13" xtl="393.9831101787934" ytl="176.95610155478238" xbr="495.51156215506103" ybr="356.40509293529" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="14" xtl="415.62811036082667" ytl="180.49647551757093" xbr="507.6095453254957" ybr="365.41949034010145" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+  </track>
+  <track id="28" label="person">
+    <box frame="0" xtl="1031.96875" ytl="0.1624453067779541" xbr="1095.0859375" ybr="159.5644075870514" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="1" xtl="1032.3199857807797" ytl="0.15585917241787683" xbr="1094.1979361493336" ybr="158.6051895532753" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="2" xtl="1032.3029892558425" ytl="0.10753300970850432" xbr="1094.1950145945286" ybr="158.6933635448673" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="3" xtl="1031.467999622126" ytl="0.12033157207356737" xbr="1093.2228881817268" ybr="159.51147544137507" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="4" xtl="1031.0020866677291" ytl="0.18219289018703932" xbr="1092.6071445873968" ybr="160.13834650846775" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="5" xtl="1035.5066775930893" ytl="0.21476489419644906" xbr="1098.5598217924633" ybr="158.05025162508713" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="6" xtl="1034.5708891397323" ytl="-0.19566101459250262" xbr="1091.743804053978" ybr="159.0454006291352" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="7" xtl="1037.8479445942003" ytl="0.29372962243323286" xbr="1093.4501659978503" ybr="156.88248387810805" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="8" xtl="1037.8479445942003" ytl="0.29372962243323286" xbr="1093.4501659978503" ybr="156.88248387810805" outside="1" occluded="0" keyframe="0">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="9" xtl="1038.9216527810295" ytl="27.48943878593974" xbr="1081.7616376478534" ybr="157.86006681355013" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="10" xtl="1036.7942735241782" ytl="-0.2237622851370844" xbr="1090.0221575616793" ybr="157.3090835501999" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="11" xtl="1035.9553509433676" ytl="0.14906598966987872" xbr="1090.9858122440633" ybr="157.31546905838363" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="12" xtl="1035.5154139341014" ytl="0.12592856667703245" xbr="1090.5687485819735" ybr="157.39498155048645" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="13" xtl="1036.0630011577184" ytl="0.22784209611704398" xbr="1090.654668512239" ybr="157.25452629677335" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+    <box frame="14" xtl="1035.6598295551541" ytl="-0.10020407019990785" xbr="1091.7255892563737" ybr="157.15474446646385" outside="0" occluded="0" keyframe="1">
+      <attribute name="walking_behavior">unknown</attribute>
+      <attribute name="phone_usage">unknown</attribute>
+    </box>
+  </track>
+</annotations>
